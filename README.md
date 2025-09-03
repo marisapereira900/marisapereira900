@@ -1,6 +1,5 @@
 # 👩‍💻 Marisa Pereira de Souza
 
-[Florianópolis/SC]• 
 [LinkedIn](https://www.linkedin.com/in/marisapereiradesouza) • [GitHub](https://github.com/marisapereira900)  
 ✉️ mariszprr@gmail.com 
 
@@ -8,7 +7,7 @@
 
 ## 👋 Sobre mim
 
-Sou uma profissional em transição para a área de Tecnologia, com formação em Engenharia de Pesca (UFRPE) e atualmente cursando Sistemas de Informação (Estácio, 4ª fase). Tenho experiência em projetos de Ciência e Engenharia de Dados, incluindo análise exploratória, modelagem estatística, machine learning e visualização de dados. Apaixonada por resolver problemas, aprender continuamente e transformar dados em insights.
+Sou uma profissional em transição para a área de Tecnologia, com formação em Engenharia de Pesca (UFRPE) e atualmente cursando Sistemas de Informação (Estácio, 4ª fase). Tenho experiência em projetos de Ciência e Engenharia de Dados, incluindo análise exploratória, modelagem estatística, *machine learning* e visualização de dados. Apaixonada por resolver problemas, aprender continuamente e transformar dados em insights.
 
 ---
 
